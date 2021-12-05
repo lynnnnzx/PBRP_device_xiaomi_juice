@@ -14,6 +14,10 @@
 # limitations under the License.
 #
 
+# Display
+TARGET_SCREEN_HEIGHT := 2340
+TARGET_SCREEN_WIDTH := 1080
+
 # Dynamic
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
